@@ -102,7 +102,7 @@ The EPNS system works very similar to mobile push notification system. The proje
 - This is the set of rules and endpoints which needs to be followed by web3 providers when they incorporate the EPNS system to ensure standardization and unification of user experience.
 
 
-Also, I do realize some of these pointers will need polishing... as I said, I am just conceptualizing all of this and how to make it work well :).
+Also, I do realize some of these pointers will need polishing... I am just conceptualizing all of this and how to make it work well :).
 
 I do see three key pointers which needs more work / brainstorming on:
 
